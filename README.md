@@ -9,3 +9,5 @@ Only JS parts
 - clock
 - random quotes and author
 
+(I'm too lazy for CSS shit. I will leave it for future myself. He will do it with super CSS knowledge that current myself don't have)
+
