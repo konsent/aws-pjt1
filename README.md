@@ -1,4 +1,4 @@
-Mementum Chrome App cloning
+Momentum Chrome App cloning
 ============================
 
 Only JS parts
