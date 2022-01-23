@@ -1,5 +1,11 @@
-Learn and Practice JS from scratch
+Mementum Chrome App cloning
 ============================
 
-## Happy learning !
+Only JS parts
+- Insert name
+- set Todo list
+- bring location and weather status
+- random background img
+- clock
+- random quotes and author
 
