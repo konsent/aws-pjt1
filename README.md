@@ -1,14 +1,3 @@
-Momentum Chrome App cloning
+아마존 웹 서비스 네트워크 구축 미니 프로젝트용 웹 호스팅용 HTML 파일
 ============================
-
-Only JS parts
-- Insert name
-- set/delete Todo list
-- save data on localStorage
-- bring location and weather status(using API)
-- random background img
-- random quotes and author
-- clock
-
-(I'm too lazy for CSS shit. I will leave it for future myself. He will do it with super CSS knowledge that current myself don't have)
 
